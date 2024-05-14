@@ -19,7 +19,7 @@ function App() {
 
     return (
         <div className="dark:bg-black bg-white">
-            <label className="swap swap-rotate">
+            <label className="swap swap-rotate text-center">
                 {/* this hidden checkbox controls the state */}
                 <input
                     onClick={handleThemeSwitch}
