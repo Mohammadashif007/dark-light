@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "color": "White",
+      "image": "https://example.com/images/toyota_camry.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "color": "Blue",
+      "image": "https://example.com/images/honda_civic.jpg"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "color": "Red",
+      "image": "https://example.com/images/ford_mustang.jpg"
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2020,
+      "color": "Black",
+      "image": "https://example.com/images/chevrolet_malibu.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2022,
+      "color": "Silver",
+      "image": "https://example.com/images/bmw_3_series.jpg"
+    },
+    {
+      "id": 6,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2021,
+      "color": "Gray",
+      "image": "https://example.com/images/audi_a4.jpg"
+    },
+    {
+      "id": 7,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2023,
+      "color": "Black",
+      "image": "https://example.com/images/mercedes_c_class.jpg"
+    },
+    {
+      "id": 8,
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2022,
+      "color": "White",
+      "image": "https://example.com/images/tesla_model_3.jpg"
+    },
+    {
+      "id": 9,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "color": "Red",
+      "image": "https://example.com/images/nissan_altima.jpg"
+    },
+    {
+      "id": 10,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2020,
+      "color": "Blue",
+      "image": "https://example.com/images/hyundai_elantra.jpg"
+    }
+  ]
