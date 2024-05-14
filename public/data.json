@@ -5,7 +5,7 @@
       "model": "Camry",
       "year": 2022,
       "color": "White",
-      "image": "https://example.com/images/toyota_camry.jpg"
+      "image": "https://i.ibb.co/MCKQYP7/tesla1.webp"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "model": "Civic",
       "year": 2021,
       "color": "Blue",
-      "image": "https://example.com/images/honda_civic.jpg"
+      "image": "https://i.ibb.co/YRqbhPQ/tesla4.webp"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "model": "Mustang",
       "year": 2023,
       "color": "Red",
-      "image": "https://example.com/images/ford_mustang.jpg"
+      "image": "https://i.ibb.co/RP21LYH/tesla5.webp"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "model": "Malibu",
       "year": 2020,
       "color": "Black",
-      "image": "https://example.com/images/chevrolet_malibu.jpg"
+      "image": "https://i.ibb.co/7zbt1nh/ferrari1.webp"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "model": "3 Series",
       "year": 2022,
       "color": "Silver",
-      "image": "https://example.com/images/bmw_3_series.jpg"
+      "image": "https://i.ibb.co/tPvpdzt/dodge1.jpg"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "model": "A4",
       "year": 2021,
       "color": "Gray",
-      "image": "https://example.com/images/audi_a4.jpg"
+      "image": "https://i.ibb.co/7KQgD1v/audiCar3.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "model": "Model 3",
       "year": 2022,
       "color": "White",
-      "image": "https://example.com/images/tesla_model_3.jpg"
+      "image": "https://i.ibb.co/TmN3LdL/audiCar6.jpg"
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "model": "Altima",
       "year": 2021,
       "color": "Red",
-      "image": "https://example.com/images/nissan_altima.jpg"
+      "image": "https://i.ibb.co/XZBc1JH/porsche4.jpg"
     },
     {
       "id": 10,
@@ -77,6 +77,6 @@
       "model": "Elantra",
       "year": 2020,
       "color": "Blue",
-      "image": "https://example.com/images/hyundai_elantra.jpg"
+      "image": "https://i.ibb.co/PDhjjQZ/ferrari8.webp"
     }
   ]
